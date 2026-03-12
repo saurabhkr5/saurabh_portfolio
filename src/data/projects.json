@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "India Population Analysis Dashboard",
+    "description": "Developed an interactive Power BI dashboard analyzing Indian census data to visualize population distribution, gender ratio, and urban–rural trends. Performed data cleaning and designed KPI-based visual reports.",
+    "tech": ["Power BI", "Microsoft Excel", "Data Cleaning", "Data Visualization"],
+    "github": "https://github.com/saurabhkr5/India-Population-Analysis-Dashboard",
+    "demo": "https://github.com/saurabhkr5/India-Population-Analysis-Dashboard",
+    "category": "Data Analytics",
+    "featured": true,
+    "color": "#00d4ff",
+    "date": "Dec' 25",
+    "image": "/project-india.png"
+  },
+  {
+    "id": 2,
+    "title": "AI Daily Challenge Bot",
+    "description": "Built an AI-powered chatbot using Python and OpenAI API to generate daily coding challenges. Implemented secure API integration, automated response handling, and interactive frontend modules using ReactJS.",
+    "tech": ["ReactJS", "JavaScript", "NodeJS", "MongoDB"],
+    "github": "https://github.com/saurabhkr5/AI-Daily-Challenge-Chatbot",
+    "demo": "https://github.com/saurabhkr5/AI-Daily-Challenge-Chatbot",
+    "category": "AI / Chatbot",
+    "featured": true,
+    "color": "#9b5de5",
+    "date": "Apr' 25",
+    "image": "/project-chatbot.png"
+  },
+  {
+    "id": 3,
+    "title": "CodeCrack Platform",
+    "description": "Interactive coding challenge platform with real-time problem solving, user authentication, leaderboards, and animated game modes for DSA learning and interview prep.",
+    "tech": ["React", "Firebase", "JavaScript", "Framer Motion"],
+    "github": "https://github.com/saurabhkr5",
+    "demo": "#",
+    "category": "Full Stack",
+    "featured": true,
+    "color": "#f72585",
+    "date": "2025",
+    "image": "/project-codecrack.png"
+  },
+  {
+    "id": 4,
+    "title": "DSA Visualizer",
+    "description": "Interactive platform for visualizing data structures and algorithms with step-by-step animations for arrays, linked lists, trees, and sorting algorithms.",
+    "tech": ["JavaScript", "React", "CSS Animations"],
+    "github": "https://github.com/saurabhkr5",
+    "demo": "#",
+    "category": "Education",
+    "featured": false,
+    "color": "#f59e0b",
+    "date": "2024",
+    "image": "/project-dsa.png"
+  }
+]

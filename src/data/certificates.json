@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "GEN AI NASSCOM – Skill Development Program",
+    "issuer": "NASSCOM",
+    "description": "National skill development program covering generative AI, LLMs, prompt engineering, and real-world AI application development.",
+    "date": "Feb' 26",
+    "color": "#f59e0b",
+    "icon": "🤖",
+    "credential": "#",
+    "image": null
+  },
+  {
+    "id": 2,
+    "title": "ChatGPT-4 Prompt Engineering: ChatGPT, Generative AI & LLM",
+    "issuer": "Infosys Springboard",
+    "description": "Advanced prompt engineering for ChatGPT and large language models, covering generative AI applications and LLM fine-tuning techniques.",
+    "date": "Aug' 24",
+    "color": "#9b5de5",
+    "icon": "💬",
+    "credential": "#",
+    "image": null
+  },
+  {
+    "id": 3,
+    "title": "Privacy & Security in Online Social Media",
+    "issuer": "NPTEL, IIIT Hyderabad",
+    "description": "Comprehensive course on digital privacy, cybersecurity, and safe online practices offered by NPTEL in collaboration with IIIT Hyderabad.",
+    "date": "Apr' 24",
+    "color": "#f72585",
+    "icon": "🔐",
+    "credential": "#",
+    "image": null
+  },
+  {
+    "id": 4,
+    "title": "Data Structures & Algorithms Training",
+    "issuer": "CipherSchools",
+    "description": "70+ hours of intensive DSA training covering arrays, linked lists, stacks, queues, trees, graphs, and competitive programming.",
+    "date": "Jul' 25",
+    "color": "#00d4ff",
+    "icon": "🧠",
+    "credential": "https://cipherschools.com",
+    "image": null
+  }
+]

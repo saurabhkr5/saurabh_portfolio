@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "150+ Algorithmic Problems Solved",
+    "description": "Solved 150+ algorithmic problems across coding platforms, strengthening analytical thinking and problem-solving skills.",
+    "date": "2025",
+    "icon": "🏆",
+    "category": "Coding",
+    "color": "#00d4ff"
+  },
+  {
+    "id": 2,
+    "title": "BinaryBlitz Web Hackathon",
+    "description": "Participated in BinaryBlitz Web Hackathon, gaining experience in collaborative problem solving and full-stack development under time pressure.",
+    "date": "Oct' 24",
+    "icon": "⚡",
+    "category": "Hackathon",
+    "color": "#9b5de5"
+  },
+  {
+    "id": 3,
+    "title": "Social Media Volunteer – Glow Run Electrica 2.0",
+    "description": "Recognized for volunteering as a Social Media Team Member at Glow Run Electrica 2.0 Night Marathon organized by Club Twenty, LPU.",
+    "date": "Apr' 24",
+    "icon": "🌟",
+    "category": "Community",
+    "color": "#f72585"
+  }
+]
