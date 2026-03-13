@@ -112,7 +112,7 @@ export default function Hero() {
               className="inline-flex items-center gap-2 glass px-4 py-2 rounded-full mb-8 text-xs font-mono"
             >
               <div className="w-2 h-2 rounded-full bg-green-400 animate-pulse" />
-              <span className="text-slate-400">B.Tech CSE @ LPU</span>
+              <span className="text-slate-400">B.Tech CSE</span>
               <span className="text-slate-600">•</span>
               <span className="text-cyan-400">Open to Opportunities</span>
             </motion.div>
@@ -225,7 +225,7 @@ export default function Hero() {
               className="flex items-center gap-4 flex-wrap"
             >
               <span className="text-xs text-slate-600 font-mono">// find me at</span>
-              <a href="https://www.linkedin.com/in/saurabh-gupta05/" target="_blank" rel="noreferrer"
+              <a href="https://linkedin.com/in/saurabh-gupta05" target="_blank" rel="noreferrer"
                 className="flex items-center gap-1.5 text-slate-400 hover:text-cyan-400 transition-colors text-sm font-mono">
                 <Linkedin size={14} /> LinkedIn
               </a>
@@ -233,7 +233,7 @@ export default function Hero() {
                 className="flex items-center gap-1.5 text-slate-400 hover:text-slate-200 transition-colors text-sm font-mono">
                 <Github size={14} /> GitHub
               </a>
-              <a href="https://leetcode.com/u/saurabh5119/" target="_blank" rel="noreferrer"
+              <a href="https://leetcode.com/saurabh5119" target="_blank" rel="noreferrer"
                 className="flex items-center gap-1.5 text-slate-400 hover:text-orange-400 transition-colors text-sm font-mono">
                 <Code2 size={14} /> LeetCode
               </a>
@@ -265,6 +265,7 @@ export default function Hero() {
                 style={{ border: '3px solid rgba(0,212,255,0.4)' }}>
                 <img
                   src="/profile.png"
+                  alt="Saurabh Kumar Gupta"
                   loading="lazy"
                   className="w-full h-full object-cover"
                   onError={e => {
@@ -275,7 +276,7 @@ export default function Hero() {
                 {/* Fallback avatar */}
                 <div className="w-full h-full items-center justify-center text-6xl font-black gradient-text font-display"
                   style={{ display: 'none', background: 'rgba(10,22,40,0.9)' }}>
-                  S
+                  
                 </div>
               </div>
 
@@ -305,14 +306,13 @@ export default function Hero() {
                 <div className="w-5 h-5 rounded-full bg-gradient-to-tr from-pink-500 to-purple-500 flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform">
                   <Play size={10} fill="currentColor" stroke="none" className="ml-0.5" />
                 </div>
-                <span></span>
               </motion.a>
             </div>
 
             {/* Name plate */}
             <div className="text-center">
               <div className="font-display font-bold text-white text-sm">Saurabh Kumar Gupta</div>
-              <div className="text-xs font-mono text-slate-500 mt-0.5">B.Tech CSE @ LPU</div>
+              <div className="text-xs font-mono text-slate-500 mt-0.5">B.Tech CSE</div>
             </div>
           </motion.div>
 

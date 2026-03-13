@@ -6,9 +6,9 @@
     "description": "National skill development program covering generative AI, LLMs, prompt engineering, and real-world AI application development.",
     "date": "Feb' 26",
     "color": "#f59e0b",
-    "icon": "🤖",
-    "credential": "#",
-    "image": null
+  
+    "credential": "https://drive.google.com/file/d/1RO-YDfFOEZc9u8PX57CsaeJk5Da9bfZL/view",
+    "image": "/nascom.png"
   },
   {
     "id": 2,
@@ -17,9 +17,9 @@
     "description": "Advanced prompt engineering for ChatGPT and large language models, covering generative AI applications and LLM fine-tuning techniques.",
     "date": "Aug' 24",
     "color": "#9b5de5",
-    "icon": "💬",
-    "credential": "#",
-    "image": null
+    
+    "credential": "https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_014157693153288192147/1-1c273206-ee29-435b-99c0-9d6fe7ef1b1b.pdf",
+    "image": "/infosys.png"
   },
   {
     "id": 3,
@@ -28,9 +28,9 @@
     "description": "Comprehensive course on digital privacy, cybersecurity, and safe online practices offered by NPTEL in collaboration with IIIT Hyderabad.",
     "date": "Apr' 24",
     "color": "#f72585",
-    "icon": "🔐",
-    "credential": "#",
-    "image": null
+    
+    "credential": "https://archive.nptel.ac.in/content/noc/NOC25/SEM1/Ecertificates/106/noc25-cs79/Course/NPTEL25CS79S24750117104485144.pdf",
+    "image": "/NPTEL.png"
   },
   {
     "id": 4,
@@ -39,8 +39,7 @@
     "description": "70+ hours of intensive DSA training covering arrays, linked lists, stacks, queues, trees, graphs, and competitive programming.",
     "date": "Jul' 25",
     "color": "#00d4ff",
-    "icon": "🧠",
-    "credential": "https://cipherschools.com",
-    "image": null
+    "credential": "https://www.cipherschools.com/certificate/preview?id=6878764306ffe7612276082d",
+    "image": "/cipher.png"
   }
 ]
