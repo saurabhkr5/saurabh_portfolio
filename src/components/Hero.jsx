@@ -100,7 +100,7 @@ export default function Hero() {
       </div>
 
       <div className="relative z-10 w-full px-6 lg:px-16 pt-20 lg:pt-0">
-        <div className="max-w-6xl flex flex-col lg:flex-row items-center gap-12 lg:gap-20">
+        <div className="max-w-6xl flex flex-col-reverse lg:flex-row items-center gap-12 lg:gap-20">
 
           {/* LEFT – Text content */}
           <div className="flex-1">
@@ -249,7 +249,7 @@ export default function Hero() {
             initial={{ opacity: 0, x: 40 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8, delay: 0.3 }}
-            className="flex-shrink-0 hidden lg:flex flex-col items-center gap-4"
+            className="flex-shrink-0 flex flex-col items-center gap-4"
           >
             {/* Photo frame */}
             <div className="relative">

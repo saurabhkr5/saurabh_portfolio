@@ -1,6 +1,17 @@
 [
   {
-    "id": 1,
+  "id": 1,
+  "title": "Google Analytics Certification",
+  "issuer": "Google",
+  "description": "Earned Google Analytics Certification demonstrating skills in website traffic analysis, user behavior tracking, performance measurement, and data-driven decision making using Google Analytics.",
+  "date": "Mar' 26",
+  "color": "#4285F4",
+  "credential": "https://skillshop.credential.net/34b0ef2f-bf98-4315-b548-262a9d1f3dac#acc.7lCjxvDa",
+  "image": "/google-analytics.png"
+},
+  {
+
+    "id": 2,
     "title": "GEN AI NASSCOM – Skill Development Program",
     "issuer": "NASSCOM",
     "description": "National skill development program covering generative AI, LLMs, prompt engineering, and real-world AI application development.",
@@ -11,7 +22,7 @@
     "image": "/nascom.png"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "ChatGPT-4 Prompt Engineering: ChatGPT, Generative AI & LLM",
     "issuer": "Infosys Springboard",
     "description": "Advanced prompt engineering for ChatGPT and large language models, covering generative AI applications and LLM fine-tuning techniques.",
@@ -22,7 +33,7 @@
     "image": "/infosys.png"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Privacy & Security in Online Social Media",
     "issuer": "NPTEL, IIIT Hyderabad",
     "description": "Comprehensive course on digital privacy, cybersecurity, and safe online practices offered by NPTEL in collaboration with IIIT Hyderabad.",
@@ -33,7 +44,7 @@
     "image": "/NPTEL.png"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Data Structures & Algorithms Training",
     "issuer": "CipherSchools",
     "description": "70+ hours of intensive DSA training covering arrays, linked lists, stacks, queues, trees, graphs, and competitive programming.",

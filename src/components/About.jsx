@@ -97,11 +97,10 @@ export default function About() {
               </div>
               <div className="space-y-1 text-xs">
                 <div><span className="text-purple-400">const</span> <span className="text-cyan-400">saurabh</span> = {'{'}</div>
-                <div className="pl-4"><span className="text-slate-400">name:</span> <span className="text-green-400">"Saurabh Kumar Gupta"</span>,</div>
-                <div className="pl-4"><span className="text-slate-400">university:</span> <span className="text-green-400">"LPU, Phagwara"</span>,</div>
-                <div className="pl-4"><span className="text-slate-400">cgpa:</span> <span className="text-orange-400">7.11</span>,</div>
-                <div className="pl-4"><span className="text-slate-400">hometown:</span> <span className="text-green-400">"Muzaffarpur, Bihar"</span>,</div>
-                <div className="pl-4"><span className="text-slate-400">passion:</span> [<span className="text-orange-400">"AI"</span>, <span className="text-orange-400">"DSA"</span>, <span className="text-orange-400">"Data"</span>],</div>
+                <div className="pl-4"><span className="text-slate-400">role:</span> <span className="text-green-400">"AI & Data Science Enthusiast"</span>,</div>
+                <div className="pl-4"><span className="text-slate-400">skills:</span> <span className="text-green-400">["Python", "Data Analysis", "Machine Learning"]</span>,</div>
+                <div className="pl-4"><span className="text-slate-400">interests:</span> <span className="text-orange-400">["DSA", "AI Projects", "Problem Solving"]</span>,</div>
+                <div className="pl-4"><span className="text-slate-400">currentlyLearning:</span> <span className="text-green-400">["Deep Learning", "System Design"]</span>,</div>
                 <div className="pl-4"><span className="text-slate-400">goal:</span> <span className="text-green-400">"Build intelligent systems"</span></div>
                 <div>{'}'}</div>
               </div>
